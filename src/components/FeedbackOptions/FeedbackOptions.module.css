@@ -1,0 +1,18 @@
+.btn {
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: capitalize;
+  background-color: #fff;
+  border: 2px solid rgb(128, 137, 128);
+}
+
+.btn:not(:last-child) {
+  margin-right: 20px;
+}
+
+.btn:hover,
+.btn:hover {
+  background-color: rgb(206, 245, 232);
+  border: 2px solid rgb(174, 228, 210);
+}
