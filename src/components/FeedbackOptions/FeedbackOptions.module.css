@@ -5,6 +5,7 @@
   text-transform: capitalize;
   background-color: #fff;
   border: 2px solid rgb(128, 137, 128);
+  cursor: pointer;
 }
 
 .btn:not(:last-child) {
